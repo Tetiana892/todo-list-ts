@@ -28,6 +28,13 @@
     "type": "git",
     "url": "git+https://github.com/Tetiana892/todo-list-ts"
   },
+  "homepage": "https://github.com/Tetiana892/todo-list-ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tetiana892/todo-list-ts/issues"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
